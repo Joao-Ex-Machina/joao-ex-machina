@@ -1,15 +1,15 @@
 ### Boas!
 My name is João Barreiros C. Rodrigues; \
-Im 18 years old and Im an undergraduate eletrotecnhical and computer engineering student at IST-ULisboa;\
-#### My main academic interests (in no particular order) are:\
+Im 18 years old and Im an undergraduate eletrotecnhical and computer engineering student at IST-ULisboa;
+#### My main academic interests (in no particular order) are:
   ● Computer Architectures\
   ● Low voltage Circuits\
   ● Theoretical Eletromagnetism\
-  ● Programming\
-#### Outside degree my main academic interests are:\
+  ● Programming
+#### Outside degree my main academic interests are:
    ● Philosophy (mainly political-philosophy)\
-   ● History\
-#### Other non-academic related interests:\
+   ● History
+#### Other non-academic related interests:
    ● Heavy Metal\
    ● Magic the Gathering\
    ● Dungeons and Dragon\
