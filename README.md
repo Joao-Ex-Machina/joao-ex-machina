@@ -16,4 +16,4 @@ Im 18 years old and Im an undergraduate eletrotecnhical and computer engineering
    \
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Ex-Machina&show_icons=true&bg_color=1111&icon_color=CD0000&title_color=CD0000&text_color=f2f2f2)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Ex-Machina&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Ex-Machina&show_icons=true&bg_color=1111&icon_color=CD0000&title_color=CD0000&text_color=f2f2f2)](https://github.com/anuraghazra/github-readme-stats)
