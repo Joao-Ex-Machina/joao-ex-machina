@@ -6,7 +6,7 @@ Im 18 years old and Im an undergraduate eletrotecnhical and computer engineering
   ● Low voltage Circuits\
   ● Theoretical Eletromagnetism\
   ● Programming
-#### Outside degree my main academic interests are:
+#### Outside my degree my main academic interests are:
    ● Philosophy (mainly political-philosophy)\
    ● History
 #### Other non-academic related interests:
