@@ -13,7 +13,7 @@ Im 18 years old and Im an undergraduate eletrotecnhical and computer engineering
 #### Other non-academic related interests:
    ● Heavy Metal\
    ● Magic the Gathering\
-   ● Dungeons and Dragon\
+   ● Dungeons and Dragons\
    \
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Ex-Machina&show_icons=true&bg_color=1111&icon_color=CD0000&title_color=CD0000&text_color=f2f2f2)
 
