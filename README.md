@@ -6,7 +6,7 @@ Im an 18 years old undergraduate eletrotecnhical and computer engineering studen
   ● Computer Architectures\
   ● Low voltage Circuits\
   ● Theoretical Eletromagnetism\
-  ● Robotics
+  ● Robotics\
   ● Programming
 #### Outside my degree my main academic interests are:
    ● Philosophy (mainly political-philosophy)\
