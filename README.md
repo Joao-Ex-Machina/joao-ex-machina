@@ -1,4 +1,6 @@
 ### Boas! \m/
+
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/SparklingRita/resumos-meec?color=000&label=Resumos-Meec%20Contributor&style=plastic)
 My name is João Barreiros C. Rodrigues; 
 
 Im an 18 years old undergraduate eletrotecnhical and computer engineering student at IST-ULisboa;
