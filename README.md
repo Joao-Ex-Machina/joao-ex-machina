@@ -1,6 +1,6 @@
 ### Boas! \m/
 
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/SparklingRita/resumos-meec?color=000&label=Resumos-Meec%20Contributor&style=plastic) ![GitHub_badge](https://img.shields.io/static/v1?label=&message=HackerSchool-Rookie&color=6BBA75) 
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/SparklingRita/resumos-meec?color=000&label=Resumos-Meec%20Contributor&style=plastic) ![GitHub_badge](https://img.shields.io/static/v1?label=&message=HackerSchool-Rookie&color=6BBA75&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAZdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuMjHxIGmVAAAAdklEQVQ4T2PI3lX6nxxMHY0+lYEokiCcti4fQwyEUTRqaqj/9yz0RVEA0ggSRxYDYQyN6IpgGtHFqasxZXUOHCcDMdEakdkg7F3qDxeHYbxOhfFB2C3HCy4OwgT9iKwZWRxFIwijK4CJEdSIC5OtER2TqbH0PwCeFtOXtCYKAQAAAABJRU5ErkJggg==) 
 My name is João Barreiros C. Rodrigues; 
 
 Im an 18 years old undergraduate eletrotecnhical and computer engineering student at IST-ULisboa;
