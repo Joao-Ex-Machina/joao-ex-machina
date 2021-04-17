@@ -1,6 +1,6 @@
 ### Boas! \m/
 
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/SparklingRita/resumos-meec?color=000&label=Resumos-Meec%20Contributor&style=plastic) (https://img.shields.io/static/v1?label=&message=HackerSchool-Rookie&color=6BBA75?logo=data:image/png;base64,) \
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/SparklingRita/resumos-meec?color=000&label=Resumos-Meec%20Contributor&style=plastic) (https://img.shields.io/static/v1?label=&message=HackerSchool-Rookie&color=6BBA75&logo=data:image/png;base64,) \
 \
 My name is João Barreiros C. Rodrigues; 
 
