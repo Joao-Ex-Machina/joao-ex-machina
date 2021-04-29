@@ -20,7 +20,6 @@ Im an 18 years old undergraduate eletrotecnhical and computer engineering studen
    ● Magic the Gathering\
    ● Dungeons and Dragons\
    ● Other RPG's and RTS's\
-\
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Ex-Machina&show_icons=true&bg_color=1111&icon_color=CD0000&title_color=CD0000&text_color=f2f2f2)
 
