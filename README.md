@@ -5,7 +5,7 @@
 ## Bio and Interests
 My name is João Barreiros C. Rodrigues; 
 
-Im an 18 years old undergraduate eletrotecnhical and computer engineering student at IST-ULisboa;
+Im an 18 years old undergraduate eletrotecnhical and computer engineering student at IST-ULisboa;\
 Always rooting for Libre Software!
 #### My main academic interests (in no particular order) are:
   ● Computer Architectures\
