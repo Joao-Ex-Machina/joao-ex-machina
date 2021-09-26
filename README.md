@@ -27,4 +27,4 @@ Rooting for  Free Libre Software!
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Ex-Machina&show_icons=true&bg_color=1111&icon_color=CD0000&title_color=CD0000&text_color=f2f2f2)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Ex-Machina&bg_color=1111&title_color=CD0000&text_color=f2f2f2&langs_count=10&exclude_repo=Covid19_MEEC_RAW&exclude_repo=dotfiles)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Ex-Machina&bg_color=1111&title_color=CD0000&text_color=f2f2f2&langs_count=10&exclude_repo=Covid19_MEEC_RAW,dotfiles)](https://github.com/anuraghazra/github-readme-stats)
