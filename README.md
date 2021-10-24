@@ -21,6 +21,7 @@ Rooting for  Free Libre Software!
 #### Other non-academic related interests:
    ● Heavy Metal\
    ● Esoteric Programming Languages\
+   ● Stegnography\
    ● Magic the Gathering\
    ● Dungeons and Dragons\
    ● Other RPG's and RTS's
