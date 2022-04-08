@@ -15,9 +15,9 @@ Rooting for  Free Libre Software!
       ∙ Algorithm Optimization\
       ∙ Computer Networks\
   ● Low voltage Circuits\
-  ● Theoretical Eletromagnetism\
+  ● Theoretical Eletromagnetism
 #### Outside my degree my main academic interests are:
-   ● Philosophy (mainly dialetcics, ethics, and political-philosophy)\
+   ● Philosophy (mainly dialetics, ethics, and political-philosophy)\
    ● History
 #### Other non-academic related interests:
    ● Heavy Metal\
