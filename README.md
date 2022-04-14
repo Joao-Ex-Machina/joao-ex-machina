@@ -12,8 +12,8 @@ Rooting for  Free Libre Software!
 #### My main academic interests (in no particular order) are:
   ● Computer Architectures\
   ● Procedure Oriented Programming\
-    ∙ Algorithm Optimization\
-    ∙ Computer Networks\
+     ∙ Algorithm Optimization\
+     ∙ Computer Networks\
   ● Low voltage Circuits\
   ● Theoretical Eletromagnetism
 #### Outside my degree my main academic interests are:
