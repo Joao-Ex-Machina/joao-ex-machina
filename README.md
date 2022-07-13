@@ -19,6 +19,8 @@
 </a>
 My main academic interests (in no particular order) are:
 
+
+
   ● Computer Architectures
   
   ● Procedure Oriented Programming
@@ -35,13 +37,21 @@ My main academic interests (in no particular order) are:
     
   ● Low voltage Circuits
   
+  
+  
 Outside my degree my main academic interests are:
+
+
 
    ● Philosophy (mainly dialetics, ethics, and political-philosophy)
    
    ● History
    
+   
+   
 Other non-academic related interests:
+
+
 
    ● Heavy Metal
    
