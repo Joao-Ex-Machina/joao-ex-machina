@@ -11,11 +11,12 @@
 ![GitHub_GCC_badge](https://img.shields.io/static/v1?label=&message=GCC&style=plastic&color=000000&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAg9JREFUKJFtkk9MUgEcx7+PuYQO/EkumOmwU3Fr61LaoZpdmmZbB9epQ4zFOHHgwIVbrWK2wbSV3TrQ3FrCQ81DgYTFAYTSSMze46kkroxXQL6H8OsEA/Jz/n5++31/+wFtvJyeviFk+b2Dgwrltrf/LoZCbofDoWnPtRAMBqyVSoWa4b5t0LtIRLZaraOHSl7v+JlyuVSrCwuv50mv76LJyQm6MnSZ3G73sN1u72NZNgwAHXXx0sWhcZXqKAMA7ocPEIvFsLKyilQqhbv37kOlVM7EE/G8SqWKNUSz2Www9vdfqA8RRRFPp6ag0WghS/vo7jYglUwh/Tn9YXf3+0RjzdlA4HZzr/XMGhERZTIZSiaXKeCfoaWlKD178vhF3VEAgKGn53RzX61Oh7UvaeTzOyiXSvB4vPgtijg3MGhqOcxyPP6I2pAliSRJolqtRolEgoiIBCH7q+50AEChUOABgOM4rK58glqtBsMosPfzB06ZTNgUsiiXiujt7WNaVg1HIm+ICOHQW5w0GqHTaiGKIkZGr+N9NIrhkWs4PzAIWdrPtIgul+sjz3F8rVqFsLWFgihi4+s6FubncKRTidkgi3x+B7yQ9f33AD7f86uyLLdXbbCZ5XmbzdZ56PfMseydYvFPtV3iOS7rdDpPNGeZdtlisRy/OTZ265i+66wCDJPL5RZf+f0ej8cjNef+AaXlV34pEf5UAAAAAElFTkSuQmCC)
 ![GitHub_NeoVim_badge](https://img.shields.io/static/v1?label=&message=(Neo)Vim&style=plastic&color=000000&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAnZJREFUKJGN0D1ME3EYx/HvXa//K3cWW49AS1EkykvUmqBBgRhs1MTEYDRGY3Ry0YHR3cRRZyfjgImJCjIwGAkmIvVdwajxZaggtBQrLVAKLS897s4FiXHys3/z/PJIAB0dHa2GYXR6vV5FlmVs2+bHVKL4smmkxsl9ebP3c+RnQ2jnfkmSALAsCwVAlmUpFAp5w+FwUAjBzMwMQ0++Efs1jaJvbNtWvkRjY6NkGAaO4zA6OroiAySTya/ZbPZxsVgEIDOdYdgaoShsrCVN2uyvlfQNOgCpVMqMRqPdCoDP51sWQsyzxsHBEiBbEueWWrhw+DSO4zCXm6O7p/vN0NuhywrAlNcUDVhe/lK6onKMVi4eOYtlWSQmJ7gxcJv0vg/5QJvLqwA4deqZSff8kT+RXqJzfutRDjYdwLZt4skEN4e7eFE9QUlp6SFc+etKe3t76HNh5JrwyGV/QsMwaPb7URXBzOwst153ES0fwdZlCkseNWGZJ12xWGxBKxMLW7SKtv01e1RVVRFCIIQgOTnJ04/PuSteYfvdIEmwaK4q3xb7ZYDK6dJ7jWp97/pzHId0Os3gu2d8Ik5FiYGvoFK9sonKGPHjruYHCkC4Kryie/TcepRJc2egh9ZdTfSOv+eU1ozskqkvr7FzZkaqDlSfkPmHaZp0DnTxXc9gOhZmCehuwc9kHDm7+kE44qHb7c65AILBoCsQCOzTNK2hr69von9s8P7uzfW1yXzGo6xi1ywb7+sC25MTY4lHfr8/XCgU3kprh6RIJLJNCNGQzWbHxhfH48auqkvpiuIVPScNt7DjatAXXMjn8zlN0yosy0r9u/S//Qba/wC52UfwZwAAAABJRU5ErkJggg==)
 
-## Bio and Interests
-My name is João Barreiros C. Rodrigues; 
-
-Im an 19 years old undergraduate Electrical and Computer Engineering  engineering student at IST-ULisboa;\
-Rooting for  Free Libre Software!
+## Interests and GitHub stats
+<a href="https://github.com/FrenzyExists">
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Joao-Ex-Machina&show_icons=true&bg_color=1111&icon_color=CD0000&title_color=CD0000&text_color=f2f2f2">
+  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Joao-Ex-Machina&currStreakLabel=f2f2f2&sideLabels=CD0000&currStreakNum=caf6bb&sideNums=f2f2f2&dates=f2f2f2ring=CD0000&fire=CD0000&stroke=f2f2f2&background=1111">
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Ex-Machina&layout=compact&bg_color=0000&title_color=CD0000&text_color=f2f2f2&langs_count=10&exclude_repo=Covid19_MEEC_RAW,dotfiles" />
+</a>
 #### My main academic interests (in no particular order) are:
   ● Computer Architectures\
   ● Procedure Oriented Programming\
@@ -34,7 +35,3 @@ Rooting for  Free Libre Software!
    ● Dungeons and Dragons\
    ● Magic the Gathering\
    ● Other RPG's and RTS's
-## GitHub Stats
-![Anurag's GitHub statsI](https://github-readme-stats.vercel.app/api?username=Joao-Ex-Machina&show_icons=true&bg_color=1111&icon_color=CD0000&title_color=CD0000&text_color=f2f2f2)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Ex-Machina&bg_color=0000&title_color=CD0000&text_color=f2f2f2&langs_count=10&exclude_repo=Covid19_MEEC_RAW,dotfiles)](https://github.com/anuraghazra/github-readme-stats)
