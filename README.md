@@ -21,21 +21,21 @@ My main academic interests (in no particular order) are:
 
 
 
-  ● Computer Architectures
+  * Computer Architectures
   
-  ● Procedure Oriented Programming
+  * Procedure Oriented Programming
   
-    ∙ Firmware Development
-  
-    ∙ Kernel Development
+     * Firmware Development
+     
+     * Kernel Development
+     
+     * Operating System Development
+     
+     * Algorithm Optimization
+     
+     * Computer Networks
     
-    ∙ Operating System Development
-    
-    ∙ Algorithm Optimization
-    
-    ∙ Computer Networks
-    
-  ● Low voltage Circuits
+  * Low voltage Circuits
   
   
   
@@ -43,9 +43,9 @@ Outside my degree my main academic interests are:
 
 
 
-   ● Philosophy (mainly dialetics, ethics, and political-philosophy)
+   * Philosophy (mainly dialetics, ethics, and political-philosophy)
    
-   ● History
+   * History
    
    
    
@@ -53,16 +53,16 @@ Other non-academic related interests:
 
 
 
-   ● Heavy Metal
+   * Heavy Metal
    
-   ● Hardware Hacking
+   * Hardware Hacking
    
-   ● Esoteric Programming Languages
+   * Esoteric Programming Languages
    
-   ● Stegnography
+   * Stegnography
    
-   ● Dungeons and Dragons
+   * Dungeons and Dragons
    
-   ● Magic the Gathering
+   * Magic the Gathering
    
-   ● Other RPG's and RTS's
+   * Other RPG's and RTS's
