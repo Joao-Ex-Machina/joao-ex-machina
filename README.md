@@ -43,8 +43,14 @@ Outside my degree my main academic interests are:
 
 
 
-   * Philosophy (mainly dialetics, ethics, and political-philosophy)
-   
+   * Philosophy
+      
+      * Political Philosophy
+      
+      * Ethics
+      
+      * Dialetics
+      
    * History
    
    
