@@ -22,20 +22,25 @@ My main academic interests (in no particular order) are:
 
 
   * Computer Architectures
-  
+
+  * Electronic Design Automation
+ 
+  * Embeded Electronic Systems
+   
   * Procedure Oriented Programming
   
      * Firmware Development
      
      * Kernel Development
      
-     * Operating System Development
+     * Systems Programming
      
      * Algorithm Optimization
      
      * Computer Networks
-    
-  * Low voltage Circuits
+     
+     * Network Architectures and Management
+ 
   
   
   
@@ -64,9 +69,7 @@ Other non-academic related interests:
    * Hardware Hacking
    
    * Esoteric Programming Languages
-   
-   * Stegnography
-   
+
    * Dungeons and Dragons
    
    * Magic the Gathering
