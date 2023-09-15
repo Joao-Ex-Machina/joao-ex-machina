@@ -15,7 +15,7 @@
 <a href="https://github.com/Joao-Ex-Machina">
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Joao-Ex-Machina&show_icons=true&bg_color=1111&icon_color=CD0000&title_color=CD0000&text_color=f2f2f2">
   <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Joao-Ex-Machina&currStreakLabel=f2f2f2&sideLabels=CD0000&currStreakNum=caf6bb&sideNums=f2f2f2&dates=f2f2f2ring=CD0000&fire=CD0000&stroke=f2f2f2&background=1111">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Ex-Machina&layout=compact&bg_color=0000&title_color=CD0000&text_color=f2f2f2&langs_count=10&exclude_repo=Covid19_MEEC_RAW,dotfiles" />
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Ex-Machina&layout=compact&bg_color=0000&title_color=CD0000&text_color=f2f2f2&langs_count=16&exclude_repo=Covid19_MEEC_RAW" />
 </a>
 My main academic interests (in no particular order) are:
 
