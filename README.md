@@ -20,7 +20,8 @@
 My main academic interests (in no particular order) are:
 
 
-
+  * Digital Systems Design
+    
   * Computer Architectures
 
   * Electronic Design Automation
