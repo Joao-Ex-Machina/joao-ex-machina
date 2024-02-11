@@ -21,12 +21,14 @@ My main academic interests (in no particular order) are:
 
 
   * Digital Systems Design
+
+    * Reconfigurable Hardware/Computing   
     
   * Computer Architectures
 
   * Electronic Design Automation
  
-  * Embeded Electronic Systems
+  * Embededd Electronic Systems
    
   * Procedure Oriented Programming
   
@@ -34,14 +36,7 @@ My main academic interests (in no particular order) are:
      
      * Kernel Development
      
-     * Systems Programming
-     
-     * Algorithm Optimization
-     
      * Computer Networks
-     
-     * Network Architectures and Management
- 
   
   
   
