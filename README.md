@@ -28,7 +28,8 @@ My main academic interests (in no particular order) are:
 
   * Electronic Design Automation
  
-  * Embededd Electronic Systems
+  * Embedded Electronic Systems
+    * IoT Systems
    
   * Procedure Oriented Programming
   
