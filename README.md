@@ -34,10 +34,6 @@ My main academic interests (in no particular order) are:
   * Procedure Oriented Programming
   
      * Firmware Development
-     
-     * Kernel Development
-     
-     * Computer Networks
   
   
   
