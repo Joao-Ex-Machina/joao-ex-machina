@@ -22,40 +22,20 @@ My main academic interests (in no particular order) are:
 
   * Digital Systems Design
 
-    * Reconfigurable Hardware/Computing   
+    * Reconfigurable Hardware/Computing
+    * Hardware for Embedded Electronic Systems
+    * Hardware for IoT Systems 
     
-  * Computer Architectures
+  * High Performance Computer Architectures
 
   * Electronic Design Automation
  
-  * Embedded Electronic Systems
-    * IoT Systems
-   
   * Procedure Oriented Programming
   
      * Firmware Development
   
-  
-  
-Outside my degree my main academic interests are:
 
-
-
-   * Philosophy
-      
-      * Political Philosophy
-      
-      * Ethics
-      
-      * Dialetics
-      
-   * History
-   
-   
-   
 Other non-academic related interests:
-
-
 
    * Heavy Metal
    
