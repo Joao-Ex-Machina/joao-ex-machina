@@ -1,6 +1,7 @@
 # Boas! Im João, Welcome to my GitHub!  \m/
 
 I’m a 22 years old Electrical and Computer Engineering MSc student at IST-ULisboa, majoring in Computer Systems and Architectures and minoring in Electronic Circuits and Systems.
+
 My undergoing MSc PIC/Thesis under supervision of Prof. Horácio Neto and Prof. Mário Véstias is focused on an embedded system for aerial object detection using Transformers.
 I'm an enjoyer, supporter and developer of Free and Open Source Hardware/Software and Open Documentation.
 
