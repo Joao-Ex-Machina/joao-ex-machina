@@ -1,4 +1,11 @@
 # Boas! Im João, Welcome to my GitHub!  \m/
+
+I’m a 22 years old Electrical and Computer Engineering MSc student at IST-ULisboa.
+My main academic focuses are Reconfigurable Computing, Digital Systems Design, Computer
+Architectures, Embedded systems and Electronic Design. I’m also interested in procedure
+oriented programming focused on algorithm optimization and application on Electronic Design
+Automation and UNIX systems
+
 ## Organizations
 
 ![GitHub_HS_badge](https://img.shields.io/static/v1?label=&message=HackerSchool&style=plastic&color=6BBA75&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAZdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuMjHxIGmVAAAAdklEQVQ4T2PI3lX6nxxMHY0+lYEokiCcti4fQwyEUTRqaqj/9yz0RVEA0ggSRxYDYQyN6IpgGtHFqasxZXUOHCcDMdEakdkg7F3qDxeHYbxOhfFB2C3HCy4OwgT9iKwZWRxFIwijK4CJEdSIC5OtER2TqbH0PwCeFtOXtCYKAQAAAABJRU5ErkJggg==) 
