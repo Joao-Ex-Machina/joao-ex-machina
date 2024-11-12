@@ -9,6 +9,8 @@ Automation and UNIX systems
 ## Organizations
 
 ![GitHub_HS_badge](https://img.shields.io/static/v1?label=&message=HackerSchool&style=plastic&color=6BBA75&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAZdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuMjHxIGmVAAAAdklEQVQ4T2PI3lX6nxxMHY0+lYEokiCcti4fQwyEUTRqaqj/9yz0RVEA0ggSRxYDYQyN6IpgGtHFqasxZXUOHCcDMdEakdkg7F3qDxeHYbxOhfFB2C3HCy4OwgT9iKwZWRxFIwijK4CJEdSIC5OtER2TqbH0PwCeFtOXtCYKAQAAAABJRU5ErkJggg==) 
+![GitHub_INESC_badge](https://img.shields.io/static/v1?label=&message=INESC-ID&style=plastic&color=0D218D&logo=data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAACQAgCdASoQABAAAgA0JbACdLoAEIaWObKkOC6AAAD+9pF/xsVfvC4/4A0z8f75LyoZo/vn/wXi2aH7xoLT8iOZMRk5d6mLEy5SLL80jdc6Y0Pnds77FI2sY54IElafy3lFTMgv2KU30Kc0ehJiPBDVHZ/8OI2fjEiMlP/XNU6N5upH62n6OZAnU6dvfqqd/f8eHMMS6QUAF1//GFyuhrgK4Ege/k3AVmqAAA==) 
+![GitHub_ESDA_badge](https://img.shields.io/static/v1?label=&message=ESDA&style=plastic&color=FFFFFF&logo=data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAwAgCdASoQABAAAgA0JYgAD4wQKY7mVnC3gAD+/nszyP/h+AE7DE+++Yyc9nULypu1hF7KfVaPIELIrMGd8UBMF15Nw/uOp2LeTIAuCr7Y25oWsTVfzy/0RnQK71RvqJa1t66OLPhJ/5huA/7rk/zmiRdYOH0/36s/aAAA) 
 
 ## Tools
 
