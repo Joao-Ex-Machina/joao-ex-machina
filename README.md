@@ -2,7 +2,7 @@
 
 I’m a 22 years old Electrical and Computer Engineering MSc student at IST-ULisboa, majoring in Computer Systems and Architectures and minoring in Electronic Circuits and Systems.
 
-My undergoing MSc PIC/Thesis under supervision of Prof. Horácio Neto and Prof. Mário Véstias is focused on an embedded system for aerial object detection using Transformers.
+My undergoing MSc PIC/Thesis under supervision of Prof. Horácio Neto and Prof. Mário Véstias is focused on an embedded system for aerial image segmentation using Transformers.
 
 I'm an enjoyer, supporter and developer of Free and Open Source Hardware/Software and Open Documentation.
 
@@ -41,9 +41,6 @@ My main academic interests (in no particular order) are:
 
   * Electronic Design Automation
  
-  * Procedure Oriented Programming
-  
-     * Firmware Development
   
 
 Other non-academic related interests:
