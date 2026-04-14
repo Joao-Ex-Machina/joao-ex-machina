@@ -1,6 +1,7 @@
 # Boas! Im João, Welcome to my GitHub!  \m/
 
-I am a 23 year old Electrical and Computer Eng. PhD student at Instituto Superior Técnico - ULisboa , with a knack for all things FPGA, embedded systems and reconfigurable computing.\ 
+I am a 23 year old Electrical and Computer Eng. PhD student at Instituto Superior Técnico - ULisboa , with a knack for all things FPGA, embedded systems and reconfigurable computing. \
+
 I am also a early-stage researcher at INESC-ID and INESC-INOVLabs.
 
 You can find my Blog, Devlogs on my projects and many other materials [on my website](https://jbcr.pt)!
@@ -21,9 +22,7 @@ You can find my Blog, Devlogs on my projects and many other materials [on my web
 
 ## Interests and GitHub stats
 <a href="https://github.com/Joao-Ex-Machina">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Joao-Ex-Machina&show_icons=true&bg_color=000000&icon_color=CD0000&title_color=CD0000&text_color=f2f2f2">
   <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Joao-Ex-Machina&currStreakLabel=f2f2f2&sideLabels=CD0000&currStreakNum=caf6bb&sideNums=f2f2f2&dates=f2f2f2ring=CD0000&fire=CD0000&stroke=f2f2f2&background=000000">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Ex-Machina&layout=compact&bg_color=000000&title_color=CD0000&text_color=f2f2f2&langs_count=16&exclude_repo=Covid19_MEEC_RAW" />
 </a>
 My main academic interests (in no particular order) are:
 
