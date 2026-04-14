@@ -1,6 +1,6 @@
 # Boas! Im João, Welcome to my GitHub!  \m/
 
-I am a 23 year old Electrical and Computer Eng. PhD student at Instituto Superior Técnico - ULisboa , with a knack for all things FPGA, embedded systems and reconfigurable computing. \
+I am a 23 year old Electrical and Computer Eng. PhD student at Instituto Superior Técnico - ULisboa , with a knack for all things FPGA, embedded systems and reconfigurable computing. 
 
 I am also a early-stage researcher at INESC-ID and INESC-INOVLabs.
 
